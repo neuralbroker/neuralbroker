@@ -7,7 +7,7 @@ I work on software and AI engineering.
 Python, TypeScript, Java, C, SQL  
 FastAPI, Node.js, PostgreSQL  
 React, Next.js  
-LLMs, RAG, local AI tools
+LLMs, AI tools
 
 ## Contact
 
