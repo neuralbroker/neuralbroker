@@ -1,13 +1,13 @@
 # Sajad
 
-Core SWE / AI Engineer. I build production AI systems end-to-end - from fine-tuned models to deployed APIs with proper infra.
+Core SWE / AI Engineer. I build AI systems end-to-end - fine-tuning, RAG, model serving, infra.
 
 ## Focus
 
 - AI/LLM engineering: fine-tuning, RAG, agents, model serving
 - Backend systems: Python, FastAPI, PostgreSQL, Redis, Docker
 - ML workflows: PyTorch, Hugging Face, MLflow, CI/CD
-- Production infra: AWS, Docker Compose, GitHub Actions
+- Infra: AWS, Docker, Compose, GitHub Actions
 
 ## Featured work
 
