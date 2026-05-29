@@ -1,6 +1,6 @@
 # Sajad
 
-Core SWE / AI Engineer. I build production AI systems end-to-end — from fine-tuned models to deployed APIs with proper infra.
+Core SWE / AI Engineer. I build production AI systems end-to-end - from fine-tuned models to deployed APIs with proper infra.
 
 ## Focus
 
@@ -11,11 +11,11 @@ Core SWE / AI Engineer. I build production AI systems end-to-end — from fine-t
 
 ## Featured work
 
-- **BlitzKode** — Fine-tuned Qwen2.5-Coder with SFT, GRPO, DPO, LoRA; quantized to GGUF; 510+ downloads on Hugging Face.
-- **EsenceLab** — AI recruitment platform (team lead of 4). Gemini-powered resume parsing, skill-gap analysis, candidate ranking. Won 2nd Prize at Innovision (30+ teams).
-- **Lexora AI** — RAG platform with per-user FAISS vector stores, Celery background jobs, Redis caching, Prometheus monitoring.
-- **SentinelML** — Fraud detection system with 20+ engineered features, stacked ensemble (0.94 ROC-AUC), Redis caching, MLflow tracking, drift monitoring.
-- **AI Resume Screener** — FastAPI + Groq LLM for resume-job matching with JWT auth.
+- **BlitzKode** - Fine-tuned Qwen2.5-Coder with SFT, GRPO, DPO, LoRA; quantized to GGUF; 510+ downloads on Hugging Face.
+- **EsenceLab** - AI recruitment platform (team lead of 4). Gemini-powered resume parsing, skill-gap analysis, candidate ranking. Won 2nd Prize at Innovision (30+ teams).
+- **Lexora AI** - RAG platform with per-user FAISS vector stores, Celery background jobs, Redis caching, Prometheus monitoring.
+- **SentinelML** - Fraud detection system with 20+ engineered features, stacked ensemble (0.94 ROC-AUC), Redis caching, MLflow tracking, drift monitoring.
+- **AI Resume Screener** - FastAPI + Groq LLM for resume-job matching with JWT auth.
 
 ## Contact
 
