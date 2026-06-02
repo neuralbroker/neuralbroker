@@ -1,6 +1,6 @@
 # Sajad
 
-Core SWE / AI Engineer. I build AI systems end-to-end - fine-tuning, RAG, model serving, infra.
+Core SWE / AI Engineer. I build AI systems end-to-end — fine-tuning, RAG, model serving, infra. AI-augmented by default: I lean on AI tools to ship faster and squeeze out the last drops of quality.
 
 ## Focus
 
@@ -23,4 +23,8 @@ Core SWE / AI Engineer. I build AI systems end-to-end - fine-tuning, RAG, model 
 - [LinkedIn](https://linkedin.com/in/abdullasajad)
 - [Hugging Face](https://huggingface.co/neuralbroker)
 - [Email](mailto:abdullasajad01@gmail.com)
+
+## Off the clock
+
+⚽ Football · 🔬 Research · 📽️ Tech documentaries · 🎬 Movies · 🤖 AI-augmented engineering
 
