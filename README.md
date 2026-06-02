@@ -1,6 +1,6 @@
 # Sajad
 
-Core SWE / AI Engineer. I build AI systems end-to-end — fine-tuning, RAG, model serving, infra. AI-augmented by default: I lean on AI tools to ship faster and squeeze out the last drops of quality.
+I'm a software engineer. I build production web apps, AI systems, and backend services, and I use AI to move faster.
 
 ## Focus
 
@@ -26,5 +26,5 @@ Core SWE / AI Engineer. I build AI systems end-to-end — fine-tuning, RAG, mode
 
 ## Off the clock
 
-⚽ Football · 🔬 Research · 📽️ Tech documentaries · 🎬 Movies · 🤖 AI-augmented engineering
+⚽ Football · 🔬 Research · 📽️ Tech docs · 🎬 Movies
 
