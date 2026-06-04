@@ -1,6 +1,6 @@
 # Sajad
 
-Python, ML, some TypeScript.
+Python, ML, some TypeScript. I fine-tune small models, build RAG systems, and ship production ML. Code is mostly Python; the frontends and the TypeScript I touch come from LLMs doing the typing.
 
 ## Projects
 
@@ -8,17 +8,3 @@ Python, ML, some TypeScript.
 - [EsenceLab](https://github.com/neuralbroker/esencelab): AI hiring platform, 3-service monorepo. Gemini resume parsing cut shortlisting by 60% across 200+ resumes. JWT + Supabase RLS auth. 2nd at Innovision (30+ teams).
 - [Lexora AI](https://github.com/neuralbroker/lexora-ai): RAG document Q&A. Per-user FAISS, LangChain + OpenAI, sub-2s on 100k-token corpora. JWT refresh, Redis revocation.
 - [SentinelML](https://github.com/neuralbroker/sentinel-ml): credit-card fraud detection. SMOTE + RandomForest, 0.94 ROC-AUC. Redis cache, MLflow, docker-compose. Drift detection, weekly retrain.
-
-## Writing
-
-- [My projects and learnings so far](https://neuralbroker.github.io/writing/projects-and-learnings.html)
-- [Fine-tuning small models is mostly data work](https://neuralbroker.github.io/writing/fine-tuning-is-mostly-data-work.html)
-- [Your ML system will fail in production. Plan for it.](https://neuralbroker.github.io/writing/your-ml-system-will-fail-in-production.html)
-- [Neurosymbolic AI in military systems](https://neuralbroker.github.io/writing/reading-note-neurosymbolic-ai.html)
-
-## Links
-
-- [Portfolio](https://neuralbroker.github.io)
-- [LinkedIn](https://linkedin.com/in/abdullasajad)
-- [Hugging Face](https://huggingface.co/neuralbroker)
-- [Email](mailto:abdullasajad01@gmail.com)
