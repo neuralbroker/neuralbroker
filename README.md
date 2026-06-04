@@ -1,6 +1,6 @@
 # Sajad
 
-Final-year CS student. Python, ML, some TypeScript.
+Python, ML, some TypeScript.
 
 ## Projects
 
