@@ -1,6 +1,6 @@
 # Sajad
 
-Hey! I'm a final-year CS student at SNGCET, Kerala (class of 2026). I build things with Python, LLMs, and whatever else gets the job done — most of the frontends and the TypeScript I touch comes from AI tools doing the typing, not me.
+Hey! I'm a final-year CS student at SNGCET (class of 2026). I build things with Python, LLMs, and whatever else gets the job done — most of the frontends and the TypeScript I touch comes from AI tools doing the typing, not me.
 
 I use AI to ship faster, but I still believe the best code comes from understanding what you're building and why.
 
