@@ -11,6 +11,7 @@ Python, ML, some TypeScript.
 
 ## Writing
 
+- [My projects and learnings so far](https://neuralbroker.github.io/writing/projects-and-learnings.html)
 - [Fine-tuning small models is mostly data work](https://neuralbroker.github.io/writing/fine-tuning-is-mostly-data-work.html)
 - [Your ML system will fail in production. Plan for it.](https://neuralbroker.github.io/writing/your-ml-system-will-fail-in-production.html)
 - [Neurosymbolic AI in military systems](https://neuralbroker.github.io/writing/reading-note-neurosymbolic-ai.html)
