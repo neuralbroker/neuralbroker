@@ -1,6 +1,6 @@
 # Sajad
 
-Python, ML, some TypeScript. I fine-tune small models, build RAG systems, and ship production ML. Code is mostly Python; the frontends and the TypeScript I touch come from LLMs doing the typing.
+Software engineer. Python and TypeScript. I write code, mostly Python, with LLMs doing a lot of the typing. I ship small tools, build backend services, and fine-tune small models.
 
 ## Projects
 
