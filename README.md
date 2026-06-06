@@ -1,10 +1,30 @@
-# Sajad
+### Sajad // neuralbroker
 
-Software engineer. Python and TypeScript. I write code, mostly Python. I ship small tools, build backend services, and fine-tune small models.
+I write code. I make it work. I make it stay working.
 
-## Projects
+```bash
+$ whoami
+> software engineer. backend & systems.
+> currently: shipping small models, building production systems.
+> stack: python, fastapi, pytorch, next.js, postgres.
+```
 
-- [BlitzKode](https://github.com/neuralbroker/blitzkode): 4-stage fine-tuning (SFT, reward SFT, DPO, LoRA) on Qwen2.5-Coder-1.5B. GGUF Q8_0 + LoRA adapter. 510+ HF downloads. [HF](https://huggingface.co/neuralbroker/blitzkode)
-- [EsenceLab](https://github.com/neuralbroker/esencelab): AI hiring platform, 3-service monorepo. Groq resume parsing cut shortlisting by 60% across 200+ resumes. JWT + Supabase RLS auth. 2nd at Innovision (30+ teams). [live](https://esencelab.vercel.app)
-- [Lexora AI](https://github.com/neuralbroker/lexora-ai): RAG document Q&A. Per-user FAISS, LangChain + OpenAI, sub-2s on 100k-token corpora. JWT refresh, Redis revocation.
-- [SentinelML](https://github.com/neuralbroker/sentinel-ml): credit-card fraud detection. SMOTE + RandomForest, 0.94 ROC-AUC. Redis cache, MLflow, docker-compose. Drift detection, weekly retrain.
+**find me:** [github](https://github.com/neuralbroker) · [huggingface](https://huggingface.co/neuralbroker) · [linkedin](https://linkedin.com/in/abdullasajad) · [email](mailto:abdullasajad01@gmail.com)
+
+### what i've shipped
+
+**[BlitzKode](https://huggingface.co/neuralbroker/blitzkode-qwen-1.5b)** | *Open Source LLM*
+4-stage fine-tuning pipeline (SFT -> Reward-SFT -> DPO -> LoRA) on Qwen2.5-1.5B. VRAM from 24GB to 8GB. Exported to GGUF for CPU-only inference. `510+ downloads on HuggingFace.`
+`[PyTorch] [PEFT] [llama.cpp] [FastAPI]`
+
+**[EsenceLab](https://github.com/neuralbroker/esencelab)** | *AI Hiring Platform*
+3-service monorepo. Groq-powered parsing + Supabase RLS for strict row-level security. Won 2nd prize at Innovision (out of 30 teams). Zero downtime in production.
+`[Next.js] [FastAPI] [Supabase] [Docker]`
+
+**[Lexora AI](https://github.com/neuralbroker/lexora-ai)** | *Multi-Tenant RAG*
+Document Q&A with per-user FAISS index isolation. Celery for background chunking and Redis for caching. Sub-2s latency on 100k+ token corpora.
+`[LangChain] [FAISS] [Celery] [Redis]`
+
+**[SentinelML](https://github.com/neuralbroker/sentinel-ml)** | *Fraud Detection API*
+RandomForest with SMOTE oversampling. Redis prediction cache to handle repeated requests. Drift tracking with MLflow. `0.94 ROC-AUC.`
+`[Scikit-Learn] [MLflow] [PostgreSQL]`
