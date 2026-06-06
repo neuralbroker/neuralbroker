@@ -14,7 +14,7 @@ $ whoami
 
 ### what i've shipped
 
-**[BlitzKode](https://huggingface.co/neuralbroker/blitzkode-qwen-1.5b)** | *Open Source LLM*
+**[BlitzKode](https://huggingface.co/neuralbroker/blitzkode)** | *Open Source LLM*
 4-stage fine-tuning pipeline (SFT -> Reward-SFT -> DPO -> LoRA) on Qwen2.5-1.5B. VRAM from 24GB to 8GB. Exported to GGUF for CPU-only inference. `510+ downloads on HuggingFace.`
 `[PyTorch] [PEFT] [llama.cpp] [FastAPI]`
 
