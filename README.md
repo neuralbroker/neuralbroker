@@ -29,3 +29,11 @@ Document Q&A with per-user FAISS index isolation. Celery for background chunking
 **[SentinelML](https://github.com/neuralbroker/sentinel-ml)** | *Fraud Detection API*
 RandomForest with SMOTE oversampling. Redis prediction cache to handle repeated requests. Drift tracking with MLflow. `0.94 ROC-AUC.`
 `[Scikit-Learn] [MLflow] [PostgreSQL]`
+
+**[AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener)** | *Resume-JD Matcher*
+FastAPI-based resume screener using Groq (llama-3.1-8b-instant). JWT auth, screening history, admin role, statistics dashboard. SQLite + SQLAlchemy.
+`[FastAPI] [Groq] [SQLAlchemy] [JWT]`
+
+**[SpeakSwap](https://github.com/neuralbroker/speakswap)** | *Translation App*
+Next.js 15 + React 19 web app. Text + speech translation between languages via free endpoints (MyMemory, LibreTranslate, Lingva) with fallback. Voice input/output, dark mode, translation history in localStorage.
+`[Next.js] [React] [TypeScript] [Tailwind]`
