@@ -4,7 +4,7 @@ I write code. I make it work. I make it stay working.
 
 ```bash
 $ whoami
-> software engineer. backend & applied ai.
+> software engineer & applied ai.
 > currently: shipping small models, building production systems.
 > stack: python, fastapi, pytorch, next.js, postgres.
 > learning: applied ai & llms.
