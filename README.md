@@ -1,5 +1,3 @@
-### Sajad // neuralbroker
-
 I write code. I make it work. I make it stay working.
 
 ```bash
