@@ -3,7 +3,6 @@ I write code. I make it work. I make it stay working.
 ```bash
 $ whoami
 > software engineer & applied ai.
-> currently: shipping small models, building production systems.
 > stack: python, fastapi, pytorch, next.js, postgres.
 > focus: llm fine-tuning (lora/dpo), rag, mlops.
 ```
@@ -36,12 +35,12 @@ RandomForest with SMOTE oversampling and 25 engineered features. ROC-AUC 0.94.
 Redis prediction cache, MLflow experiment tracking, drift detection, and weekly retrain logic. Full stack via docker-compose. 
 `[Scikit-Learn]` `[MLflow]` `[PostgreSQL]` `[Redis]` `[Docker]`
 
-### AI Resume Screener | *Resume–JD Matcher*
+### [AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener) | *Resume–JD Matcher*
 FastAPI-based resume screener using Groq (llama-3.1-8b-instant). 
 JWT auth, per-user screening history, admin role, statistics dashboard. SQLite + SQLAlchemy. 
 `[FastAPI]` `[Groq]` `[SQLAlchemy]` `[JWT]`
 
-### SpeakSwap | *Translation App*
+### [SpeakSwap](https://github.com/neuralbroker/speakswap) | *Translation App*
 Next.js 15 + React 19 web app for text + speech translation between languages. 
 Uses free endpoints (MyMemory, LibreTranslate, Lingva) with fallback, voice input/output, dark mode, and translation history in localStorage. 
 `[Next.js]` `[React]` `[TypeScript]` `[Tailwind]`
