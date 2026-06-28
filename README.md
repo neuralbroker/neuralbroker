@@ -13,35 +13,27 @@ $ whoami
 
 ### what i've shipped
 
-### [BlitzKode](https://github.com/neuralbroker/blitzkode) | *Open Source LLM*
-4-stage fine-tuning pipeline (SFT → Reward-SFT → DPO → LoRA) on Qwen2.5-1.5B-Instruct. 
-VRAM from 24GB to 8GB via LoRA, gradient checkpointing, bfloat16. Exported to GGUF Q8_0 (1.53GB) for CPU-only inference via llama.cpp. Deployed as FastAPI server with SSE streaming. 
-**510+ downloads on HuggingFace.**
+### [BlitzKode](https://github.com/neuralbroker/blitzkode) | *1.5B coding LLM*
+4-stage fine-tune on Qwen2.5. LoRA + GGUF + FastAPI + SSE. 510+ HF downloads.
 `[PyTorch]` `[PEFT]` `[TRL]` `[llama.cpp]` `[FastAPI]` `[Docker]`
 
-### [EsenceLab](https://github.com/neuralbroker/esencelab) | *AI Hiring Platform*
-Full-stack AI hiring platform (student, recruiter, admin) as a 3-service monorepo. 
-Groq-powered resume parsing cuts manual shortlisting by 60% across 200+ resumes. JWT + Supabase RLS auth, GitHub Actions CI with RBAC smoke tests. Deployed on Vercel + Render with zero downtime. 
-Won 2nd prize at Innovision (out of 30+ teams) and offered pre-seed funding.
+### [EsenceLab](https://github.com/neuralbroker/esencelab) | *AI hiring*
+3-service monorepo. Groq resume parsing cuts shortlisting by 60%. Innovision 2nd place.
 `[Next.js 15]` `[Express]` `[FastAPI]` `[Supabase]` `[Docker]`
 
-### [Lexora AI](https://github.com/neuralbroker/lexora-ai) | *Multi-Tenant RAG*
-Document Q&A with per-user FAISS index isolation and Celery for background chunking. 
-Sub-2s retrieval latency on 100k+ token corpora. JWT refresh-token rotation with Redis-backed revocation. 
+### [Lexora AI](https://github.com/neuralbroker/lexora-ai) | *Multi-tenant RAG*
+Per-user FAISS isolation, sub-2s retrieval, JWT + Redis revocation.
 `[LangChain]` `[FAISS]` `[OpenAI]` `[Celery]` `[Redis]`
 
-### [SentinelML](https://github.com/neuralbroker/sentinel-ml) | *Fraud Detection API*
-RandomForest with SMOTE oversampling and 25 engineered features. ROC-AUC 0.94. 
-Redis prediction cache, MLflow experiment tracking, drift detection, and weekly retrain logic. Full stack via docker-compose. 
+### [SentinelML](https://github.com/neuralbroker/sentinel-ml) | *Fraud detection*
+0.94 ROC-AUC. SMOTE + RandomForest, drift monitoring, Docker Compose.
 `[Scikit-Learn]` `[MLflow]` `[PostgreSQL]` `[Redis]` `[Docker]`
 
-### [AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener) | *Resume–JD Matcher*
-FastAPI-based resume screener using Groq (llama-3.1-8b-instant). 
-JWT auth, per-user screening history, admin role, statistics dashboard. SQLite + SQLAlchemy. 
+### [AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener) | *Resume matcher*
+Groq-powered. JWT, admin dashboard, per-user history.
 `[FastAPI]` `[Groq]` `[SQLAlchemy]` `[JWT]`
 
-### [SpeakSwap](https://github.com/neuralbroker/speakswap) | *Translation App*
-Next.js 15 + React 19 web app for text + speech translation between languages. 
-Uses free endpoints (MyMemory, LibreTranslate, Lingva) with fallback, voice input/output, dark mode, and translation history in localStorage. 
+### [SpeakSwap](https://github.com/neuralbroker/speakswap) | *Translation*
+Text + speech translation. Free API fallbacks, voice I/O, dark mode.
 `[Next.js]` `[React]` `[TypeScript]` `[Tailwind]`
 ```
