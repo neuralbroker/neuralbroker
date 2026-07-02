@@ -8,7 +8,7 @@ software engineer & applied ai.
 
 ### what i've shipped
 
-**[BlitzKode](https://github.com/neuralbroker/blitzkode)** — 1.5B coding LLM. 4-stage fine-tune. 510+ HF downloads.
+**[BlitzKode](https://github.com/neuralbroker/blitzkode)** — 1.5B coding LLM. 4-stage fine-tune.
 
 **[EsenceLab](https://github.com/neuralbroker/esencelab)** — AI hiring. Groq parsing, 60% faster shortlisting. Innovision 2nd.
 
