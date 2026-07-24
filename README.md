@@ -1,4 +1,4 @@
-I am a software engineer focused on Python backend systems and applied AI.
+I am a software engineer focused on backend systems and applied AI.
 
 I build APIs, data services, retrieval systems, and AI-powered products.
 
@@ -8,9 +8,14 @@ I build APIs, data services, retrieval systems, and AI-powered products.
 - **[EsenceLab](https://github.com/neuralbroker/esencelab)** — A three-service career platform built with Next.js, Express, FastAPI, and Supabase. It includes role-based access, resume processing, job matching, and career workflows.
 - **[Lexora AI](https://github.com/neuralbroker/lexora-ai)** — A FastAPI RAG backend with document ingestion, per-user FAISS indexes, Redis caching, authentication, and source-aware responses.
 
-## Focus
+## Technical Skills
 
-Python · FastAPI · PostgreSQL · Redis · Docker · REST APIs · testing · RAG · embeddings · vector search · LLM integrations
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Backend:** FastAPI, Node.js, Express, REST APIs, Microservices, JWT, RBAC, SQLAlchemy, Async Programming
+- **Frontend:** React, Next.js
+- **Databases & Infrastructure:** PostgreSQL, Redis
+- **AI/LLM:** RAG, LangChain, Vector Search (FAISS), Embeddings
+- **DevOps:** Docker, GitHub Actions, CI/CD, Linux, Monitoring & Observability
 
 ## Links
 
