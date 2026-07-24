@@ -21,5 +21,5 @@ Python · FastAPI · PostgreSQL · Redis · Docker · REST APIs · testing · RA
 
 ## Other projects
 
-- **[Bugbee](https://github.com/neuralbroker/bugbee)** — A Rust security-engineering tool for deterministic scanning, evidence-backed findings, scope enforcement, and SARIF reporting.
+- **[Bugbee](https://github.com/neuralbroker/bugbee)** — A TypeScript AI coding agent for the terminal, desktop, and IDE, built with Bun and organized as a multi-package workspace.
 - **[AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener)** — A FastAPI service for authenticated resume screening, matching history, and administrative review.
