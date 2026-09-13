@@ -1,30 +1,34 @@
-I am a software engineer focused on backend systems and applied AI.
+# Sajad
 
-I build APIs, data services, retrieval systems, and AI-powered products.
+**Software Engineer · Backend Systems · Applied AI**
 
-## Projects
+I build production-oriented backend systems, APIs, data services, and AI infrastructure.
 
-- **[neuDB](https://github.com/neuralbroker/neudb)** — A small Python database engine with human-readable JSON persistence, atomic writes, file locking, vector search, and optional LLM memory retrieval. Published on [PyPI](https://pypi.org/project/neudb/).
-- **[EsenceLab](https://github.com/neuralbroker/esencelab)** — A three-service career platform built with Next.js, Express, FastAPI, and Supabase. It includes role-based access, resume processing, job matching, and career workflows.
-- **[Lexora AI](https://github.com/neuralbroker/lexora-ai)** — A FastAPI RAG backend with document ingestion, per-user FAISS indexes, Redis caching, authentication, and source-aware responses.
+### Focus
 
-## Technical Skills
+* Backend engineering
+* APIs & data services
+* Developer tooling
+* Applied AI
 
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **Backend:** FastAPI, Node.js, Express, REST APIs, Microservices, JWT, RBAC, SQLAlchemy, Async Programming
-- **Frontend:** React, Next.js
-- **Databases & Infrastructure:** PostgreSQL, Redis
-- **AI/LLM:** RAG, LangChain, Vector Search (FAISS), Embeddings
-- **DevOps:** Docker, GitHub Actions, CI/CD, Linux, Monitoring & Observability
+### Core Stack
 
-## Links
+**Python · SQL · FastAPI · PostgreSQL · Redis · Docker · Linux · Git**
 
-- [Portfolio](https://neuralbroker.github.io/)
-- [LinkedIn](https://linkedin.com/in/abdullasajad)
-- [Hugging Face](https://huggingface.co/neuralbroker)
-- [Email](mailto:abdullasajad01@gmail.com)
+### Selected work
 
-## Other projects
+| Project | What it demonstrates |
+| ------- | -------------------- |
+| [neuDB](https://github.com/neuralbroker/neudb) | Embedded Python database engine with persistent storage, semantic search and AI memory capabilities. Published on [PyPI](https://pypi.org/project/neudb/). |
+| [Lexora AI](https://github.com/neuralbroker/lexora-ai) | Asynchronous document processing and retrieval backend built with FastAPI, PostgreSQL, Redis and Celery. |
+| [Bugbee](https://github.com/neuralbroker/bugbee) | AI developer infrastructure for coding, tool execution, persistent context and verification workflows. Derived from [anomalyco/opencode](https://github.com/anomalyco/opencode) (see NOTICE); original contribution is the Superharness verification/memory layer. |
+| [EsenceLab](https://github.com/neuralbroker/esencelab) | Multi-service SaaS platform combining TypeScript and Python services with PostgreSQL, RBAC and AI workflows. |
+| [AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener) | FastAPI resume-screening API with JWT auth and screening history. Supporting project; superseded by Lexora AI for retrieval work. |
 
-- **[Bugbee](https://github.com/neuralbroker/bugbee)** — A TypeScript AI coding agent for the terminal, desktop, and IDE, built with Bun and organized as a multi-package workspace.
-- **[AI Resume Screener](https://github.com/neuralbroker/ai-resume-screener)** — A FastAPI service for authenticated resume screening, matching history, and administrative review.
+Next build: HookFlow — reliable webhook and event delivery infrastructure (FastAPI, PostgreSQL, Redis, workers, retries, idempotency, DLQ, observability). Not yet implemented; implementation plan prepared separately.
+
+### Links
+
+* [Portfolio](https://neuralbroker.github.io/)
+* [LinkedIn](https://linkedin.com/in/abdullasajad)
+* [Email](mailto:abdullasajad01@gmail.com)
