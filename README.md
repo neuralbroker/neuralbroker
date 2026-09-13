@@ -7,6 +7,8 @@ I build backend systems, APIs, data services, and practical AI infrastructure.
 Core:
 Python · SQL · FastAPI · PostgreSQL · Redis · Docker · AWS
 
+Also: Git · pytest · Linux · CI/CD · async Python · JWT/RBAC · structured logging · health/ready checks
+
 ## Selected work
 
 | Project | One line |
